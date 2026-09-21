@@ -2,7 +2,7 @@
 
 > **1回あたり $0.07 (lite)** の従量課金。最低 1 ドルからチャージでき、OpenAI 互換の `https://api.apimart.ai/v1` だけで完結します。
 
-**[Veo 3.1 のモデルページ](https://apimart.ai/ja/model/veo-3-1)** · **[最新の料金](https://apimart.ai/ja/pricing)** · **[API キーを取得](https://apimart.ai/ja/keys)**
+**[Veo 3.1 のモデルページ](https://go.apimart.ai/k-5b2802)** · **[最新の料金](https://go.apimart.ai/k-22ee81)** · **[API キーを取得](https://go.apimart.ai/k-523cff)**
 
 lite は1回 7 セントで、まずプロンプトを試すのに最適。fast と quality も同じ API で切り替えられる。
 
