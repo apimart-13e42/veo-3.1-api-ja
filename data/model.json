@@ -1,0 +1,15 @@
+{
+  "model_id": "veo3.1-lite",
+  "family": "Veo 3.1",
+  "snapshot": "2026-09-21",
+  "unit": "1回あたり",
+  "price_effective": {
+    "lite": 0.07,
+    "fast": 0.14,
+    "quality": 1.0
+  },
+  "endpoint": "https://api.apimart.ai/v1/videos/generations",
+  "poll": "/v1/tasks/{id}",
+  "language": "ja",
+  "source": "https://apimart.ai/en/pricing (extracted 2026-09-21)"
+}
