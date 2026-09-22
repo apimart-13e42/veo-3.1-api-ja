@@ -1,0 +1,18 @@
+{
+  "model": "veo3.1-lite",
+  "samples": [
+    {
+      "repo": "veo-3.1-api-ja",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.mp4",
+      "bytes": 2010587,
+      "thumb": "01-preview-thumb.jpg",
+      "cost": 0.07,
+      "prompt": "海沿いのモダンなヴィラ、夕暮れ、プールに空が映る、ゆっくりしたカメラプッシュ",
+      "lang": "ja"
+    }
+  ],
+  "cost_usd": 0.07,
+  "generated_at": "2026-09-21"
+}

@@ -2,7 +2,8 @@
 
 > **1回あたり $0.07 (lite)** の従量課金。最低 1 ドルからチャージでき、OpenAI 互換の `https://api.apimart.ai/v1` だけで完結します。
 
-**[Veo 3.1 のモデルページ](https://go.apimart.ai/k-5b2802)** · **[最新の料金](https://go.apimart.ai/k-22ee81)** · **[API キーを取得](https://go.apimart.ai/k-523cff)**
+<p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Veo 3.1 sample frame"></p>
+**[Veo 3.1 のモデルページ](https://apimart.ai/ja/model/veo-3-1)** · **[最新の料金](https://apimart.ai/ja/pricing)** · **[API キーを取得](https://apimart.ai/ja/keys)**
 
 lite は1回 7 セントで、まずプロンプトを試すのに最適。fast と quality も同じ API で切り替えられる。
 
@@ -20,6 +21,13 @@ lite は1回 7 セントで、まずプロンプトを試すのに最適。fast 
 | `model` | `veo3.1-lite` |
 | endpoint | `POST https://api.apimart.ai/v1/videos/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 実際に生成したサンプル（すべて実コールの結果）
+
+| 出力 | file | 費用 | prompt |
+| --- | --- | --- | --- |
+| <img src="assets/01-preview-thumb.jpg" width="260"> | [01-preview.mp4](assets/01-preview.mp4) | $0.07 | `海沿いのモダンなヴィラ、夕暮れ、プールに空が映る、ゆっくりしたカメラプッシュ` |
 
 ## 実測料金
 
